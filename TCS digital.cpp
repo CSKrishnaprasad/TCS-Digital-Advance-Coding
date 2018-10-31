@@ -36,7 +36,7 @@ int main()
 	  	  else
 	  	    cout<<0;
 	  }
-	  else
+	  else//comment
 	    cout<<0;
 	 }
 	 else
